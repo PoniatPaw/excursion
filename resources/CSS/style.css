@@ -23,10 +23,5 @@ a {
 
 footer h3 {
     text-align: right;
-    padding-right: 5px;
-}
-
-div img {
-    margin: 10px auto;
-    display: block;
+    padding-right: 10px;
 }
